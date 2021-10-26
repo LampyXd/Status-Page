@@ -4,13 +4,13 @@ repo: Status-Page # The name of this repository
 
 sites:
   - name: NA1 - Bot Node
-    url: https://na1.nodes.procloud.xyz
+    url: https://google.com
   - name: NA2 - Bot Node
-    url: https://na2.nodes.procloud.xyz
+    url: https://nrk.no
   - name: EU1
-    url: https://eu1.nodes.procloud.xyz
+    url: https://namecheap.com
   - name: AU1
-    url: https://au1.nodes.procloud.xyz
+    url: https://nrk.no
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,8 +21,10 @@ status-website:
   introTitle: "Real-Time Node Status"
   introMessage: "Here is where our customers can see the status of their nodes."
   navbar:
-    - title: Status
-      href: /status
+    - title: Website
+      href: https://procloud.xyz
+    - title: Panel
+      href: https://panel.procloud.xyz
     - title: Discord
       href: https://discord.gg
 # Upptime also supports notifications, assigning issues, and more
