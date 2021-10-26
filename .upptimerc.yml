@@ -1,31 +1,43 @@
 # Change these first
-owner: Eloniumm # Your GitHub organization or username, where this repository lives
-repo: Status-Page # The name of this repository
+owner: Discord-Development-Centre # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: NA1 - Bot Node
-    url: https://google.com
-  - name: NA2 - Bot Node
-    url: https://nrk.no
-  - name: EU1
-    url: https://namecheap.com
-  - name: AU1
-    url: https://nrk.no
+  - name: Master Bot
+    url: https://MasterBot.DLCDevelopment.repl.co
+    expectedStatusCodes:
+      - 200
+  - name: DLC Bot
+    url: https://dlc-bot.samosaman73.repl.co
+    expectedStatusCodes:
+      - 200
+  - name: TSU
+    url: https://TSU.DLCDevelopment.repl.co
+    expectedStatusCodes:
+      - 200
+  - name: NES
+    url: https://NES.DLCDevelopment.repl.co
+    expectedStatusCodes:
+      - 200
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  
-  logoUrl: https://cdn.discordapp.com/icons/901892863405727815/0e90579e7e710064e87370a48a7fb691.png?size=128
-  name: "ProCloud"
-  introTitle: "Real-Time Node Status"
-  introMessage: "Here is where our customers can see the status of their nodes."
+
+  baseUrl: /status
+  logoUrl: https://cdn.discordapp.com/attachments/840649002449764402/840973269997191198/0001-18582894259.jpg
+  name: "Discord Development Centre"
+  introTitle: "Status Page"
+  introMessage: "Here is where our customers can see the status of their bots."
   navbar:
-    - title: Website
-      href: https://procloud.xyz
     - title: Panel
       href: https://panel.procloud.xyz
+    - title: Website
+      href: https://procloud.xyz
     - title: Discord
-      href: https://discord.gg
+      href: https://DLC.rf.gd
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
