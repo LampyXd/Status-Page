@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "na-1-bot-node",
     "status": "up",
-    "uptime": "4.64%",
-    "uptimeDay": "4.64%",
-    "uptimeWeek": "4.64%",
-    "uptimeMonth": "4.64%",
-    "uptimeYear": "4.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 196,
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2021-10-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NA2 - Bot Node",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/nrk.no",
     "slug": "na-2-bot-node",
     "status": "up",
-    "uptime": "4.27%",
-    "uptimeDay": "4.27%",
-    "uptimeWeek": "4.27%",
-    "uptimeMonth": "4.27%",
-    "uptimeYear": "4.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1485,
     "timeDay": 1485,
     "timeWeek": 1485,
     "timeMonth": 1485,
     "timeYear": 1485,
-    "dailyMinutesDown": {
-      "2021-10-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "EU1",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/namecheap.com",
     "slug": "eu-1",
     "status": "up",
-    "uptime": "3.40%",
-    "uptimeDay": "3.40%",
-    "uptimeWeek": "3.40%",
-    "uptimeMonth": "3.40%",
-    "uptimeYear": "3.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 394,
     "timeDay": 394,
     "timeWeek": 394,
     "timeMonth": 394,
     "timeYear": 394,
-    "dailyMinutesDown": {
-      "2021-10-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AU1",
@@ -65,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/nrk.no",
     "slug": "au-1",
     "status": "up",
-    "uptime": "2.52%",
-    "uptimeDay": "2.52%",
-    "uptimeWeek": "2.52%",
-    "uptimeMonth": "2.52%",
-    "uptimeYear": "2.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 749,
     "timeDay": 749,
     "timeWeek": 749,
     "timeMonth": 749,
     "timeYear": 749,
-    "dailyMinutesDown": {
-      "2021-10-26": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
