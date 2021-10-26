@@ -15,8 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-   baseUrl: /status
+  
   logoUrl: https://avatars.githubusercontent.com/u/89731775?s=400&amp;u=6e940d680bcce524d288515cb6c7fceb2959d38b&amp;v=4
  name: "ProCloud"
   introTitle: "Real-Time Node Status"
