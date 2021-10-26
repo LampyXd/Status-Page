@@ -4,19 +4,19 @@
     "url": "https://MasterBot.DLCDevelopment.repl.co",
     "icon": "https://favicons.githubusercontent.com/masterbot.dlcdevelopment.repl.co",
     "slug": "master-bot",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 274,
-    "timeDay": 274,
-    "timeWeek": 274,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
+    "time": 7898,
+    "timeDay": 7898,
+    "timeWeek": 7898,
+    "timeMonth": 7898,
+    "timeYear": 7898,
     "dailyMinutesDown": {
-      "2021-10-26": 0
+      "2021-10-26": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dlc-bot.samosaman73.repl.co",
     "icon": "https://favicons.githubusercontent.com/dlc-bot.samosaman73.repl.co",
     "slug": "dlc-bot",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "status": "up",
+    "uptime": "98.72%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
+    "time": 298,
+    "timeDay": 298,
+    "timeWeek": 298,
+    "timeMonth": 298,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2021-10-26": 0
+      "2021-10-26": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://TSU.DLCDevelopment.repl.co",
     "icon": "https://favicons.githubusercontent.com/tsu.dlcdevelopment.repl.co",
     "slug": "tsu",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 230,
-    "timeDay": 230,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
+    "time": 10449,
+    "timeDay": 10449,
+    "timeWeek": 10449,
+    "timeMonth": 10449,
+    "timeYear": 10449,
     "dailyMinutesDown": {
-      "2021-10-26": 0
+      "2021-10-26": 12
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/nes.dlcdevelopment.repl.co",
     "slug": "nes",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-26": 853
+      "2021-10-26": 867
     }
   }
 ]
