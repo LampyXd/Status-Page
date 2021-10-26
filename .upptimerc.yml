@@ -1,31 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Eloniumm # Your GitHub organization or username, where this repository lives
+repo: Status-Page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: NA1 - Bot Node
+    url: https://na1.nodes.procloud.xyz
+  - name: NA2 - Bot Node
+    url: https://na2.nodes.procloud.xyz
+  - name: EU1
+    url: https://eu1.nodes.procloud.xyz
+  - name: AU1
+    url: https://au1.nodes.procloud.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+   baseUrl: /status
+  logoUrl: https://avatars.githubusercontent.com/u/89731775?s=400&amp;u=6e940d680bcce524d288515cb6c7fceb2959d38b&amp;v=4
+ name: "ProCloud"
+  introTitle: "Real-Time Node Status"
+  introMessage: "Here is where our customers can see the status of their nodes."
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+      href: /status
+    - title: Discord
+      href: https://discord.gg
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
