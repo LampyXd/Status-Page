@@ -40,18 +40,20 @@
     "url": "https://TSU.DLCDevelopment.repl.co",
     "icon": "https://favicons.githubusercontent.com/tsu.dlcdevelopment.repl.co",
     "slug": "tsu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 7040,
     "timeDay": 7040,
     "timeWeek": 7040,
     "timeMonth": 7040,
     "timeYear": 7040,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-27": 2
+    }
   },
   {
     "name": "NES",
@@ -59,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/nes.dlcdevelopment.repl.co",
     "slug": "nes",
     "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-27": 53,
+      "2021-10-27": 107,
       "2021-10-26": 1061
     }
   }
