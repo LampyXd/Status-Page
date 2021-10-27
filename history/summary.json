@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/masterbot.dlcdevelopment.repl.co",
     "slug": "master-bot",
     "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.71%",
-    "time": 7898,
-    "timeDay": 7898,
-    "timeWeek": 7898,
-    "timeMonth": 7898,
-    "timeYear": 7898,
-    "dailyMinutesDown": {
-      "2021-10-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5372,
+    "timeDay": 5372,
+    "timeWeek": 5372,
+    "timeMonth": 5372,
+    "timeYear": 5372,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DLC Bot",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/dlc-bot.samosaman73.repl.co",
     "slug": "dlc-bot",
     "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "98.72%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
-    "dailyMinutesDown": {
-      "2021-10-26": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 275,
+    "timeDay": 275,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TSU",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/tsu.dlcdevelopment.repl.co",
     "slug": "tsu",
     "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
-    "time": 10449,
-    "timeDay": 10449,
-    "timeWeek": 10449,
-    "timeMonth": 10449,
-    "timeYear": 10449,
-    "dailyMinutesDown": {
-      "2021-10-26": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 7040,
+    "timeDay": 7040,
+    "timeWeek": 7040,
+    "timeMonth": 7040,
+    "timeYear": 7040,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NES",
@@ -65,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/nes.dlcdevelopment.repl.co",
     "slug": "nes",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-26": 867
+      "2021-10-27": 53,
+      "2021-10-26": 1061
     }
   }
 ]
