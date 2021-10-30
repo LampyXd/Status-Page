@@ -3,20 +3,20 @@ owner: Discord-Development-Centre # Your GitHub organization or username, where 
 repo: status # The name of this repository
 
 sites:
-  - name: Master Bot
-    url: https://MasterBot.DLCDevelopment.repl.co
+  - name: WebSite
+    url: https://google.com
     expectedStatusCodes:
       - 200
-  - name: DLC Bot
-    url: https://dlc-bot.samosaman73.repl.co
+  - name: Billing
+    url: https://whmcs.com
     expectedStatusCodes:
       - 200
-  - name: TSU
-    url: https://TSU.DLCDevelopment.repl.co
+  - name: US1
+    url: https://na1.centhost.cf
     expectedStatusCodes:
       - 200
-  - name: NES
-    url: https://NES.DLCDevelopment.repl.co
+  - name: NE1
+    url: https://eu1.centhost.cf
     expectedStatusCodes:
       - 200
 
@@ -27,8 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 
   baseUrl: /status
-  logoUrl: https://cdn.discordapp.com/attachments/840649002449764402/840973269997191198/0001-18582894259.jpg
-  name: "Discord Development Centre"
+  name: "Centry Hosting"
   introTitle: "Status Page"
   introMessage: "Here is where our customers can see the status of their bots."
   navbar:
