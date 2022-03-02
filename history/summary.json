@@ -22,19 +22,19 @@
     "url": "https://whmcs.com",
     "icon": "https://favicons.githubusercontent.com/whmcs.com",
     "slug": "billing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 722,
-    "timeWeek": 703,
-    "timeMonth": 697,
-    "timeYear": 675,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 677,
+    "timeDay": 776,
+    "timeWeek": 723,
+    "timeMonth": 703,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 25
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-02": 908,
+      "2022-03-02": 933,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
@@ -197,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-02": 908,
+      "2022-03-02": 933,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
