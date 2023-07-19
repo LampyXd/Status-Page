@@ -4,18 +4,20 @@
     "url": "https://google.com",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 137,
-    "timeWeek": 207,
-    "timeMonth": 181,
+    "time": 162,
+    "timeDay": 283,
+    "timeWeek": 234,
+    "timeMonth": 188,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-19": 0
+    }
   },
   {
     "name": "Billing",
@@ -28,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 446,
-    "timeWeek": 504,
-    "timeMonth": 530,
+    "time": 607,
+    "timeDay": 537,
+    "timeWeek": 497,
+    "timeMonth": 523,
     "timeYear": 601,
     "dailyMinutesDown": {}
   },
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-19": 160,
+      "2023-07-19": 1411,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
@@ -436,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-19": 160,
+      "2023-07-19": 1411,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
