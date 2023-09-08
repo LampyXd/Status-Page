@@ -22,19 +22,19 @@
     "url": "https://whmcs.com",
     "icon": "https://icons.duckduckgo.com/ip3/whmcs.com.ico",
     "slug": "billing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 695,
-    "timeWeek": 596,
-    "timeMonth": 524,
-    "timeYear": 594,
+    "timeDay": 558,
+    "timeWeek": 574,
+    "timeMonth": 521,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-09-08": 0
+      "2023-09-08": 16
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 899,
+      "2023-09-08": 915,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 899,
+      "2023-09-08": 915,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
