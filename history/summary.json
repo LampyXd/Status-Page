@@ -25,9 +25,9 @@
     "url": "https://whmcs.com",
     "icon": "https://icons.duckduckgo.com/ip3/whmcs.com.ico",
     "slug": "billing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 713,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2025-03-06": 0,
       "2024-11-26": 22,
       "2024-10-06": 52,
       "2024-10-05": 19,
@@ -61,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-06": 86,
+      "2025-03-06": 958,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -445,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-06": 86,
+      "2025-03-06": 958,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
